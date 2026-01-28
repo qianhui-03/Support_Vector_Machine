@@ -67,7 +67,6 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/qianhui-03/Support_Vector_Machine.git
 cd Support_Vector_Machine
-pip install -r requirements.txt
 ```
 
 ## References
